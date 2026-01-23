@@ -1,6 +1,6 @@
 # Refine. Build. Race.
 ## About the Team
-[Team page](https://rbrevrt.hkust.edu.hk)
+Visit our [Team page](https://rbrevrt.hkust.edu.hk)!
   
 Red Bird Racing (EVRT) is the Hong Kong University of Science and Technology’s official Formula Student racing team. Named after HKUST’s “Red Bird Sundial”, the team is dedicated to competing in Formula Student events and engaging with the local motorsport community.  
 
@@ -8,7 +8,7 @@ Our team brings together a diverse group of students united by our passion for m
 ## About this GitHub Organization
 This organization is home to most of the Electrical, Electronic and Software subteam work.
 
-Electrical / Electronic
+Electrical / Electronic:
 - [ee_sw_2025](https://github.com/HKUST-Red-Bird-Racing-EVRT/ee_sw_2025)
 
 Software:
