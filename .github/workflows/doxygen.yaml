@@ -1,0 +1,18 @@
+name: Reusable Doxygen Deploy
+
+on:
+  workflow_call:
+    secrets:
+      deploy_token:
+        required: true
+        description: 'The GITHUB_TOKEN or a PAT with write access to repository contents'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/doxygen-github-pages-action@v2.0.0
+        with:
+          github_token: ${{ secrets.deploy_token }}
